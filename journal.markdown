@@ -2,10 +2,10 @@
 layout: default
 ---
 <h1>My Journal</h1>
-<p>This is where I keep record of problems I face while working on my projects and list the solutions, plus what I tried.</p>
+<p>This is where I keep record of solutions that I had to either research or implement for solving any specific problems in my projects.</p>
 <nav>
     <ul>
-        <li><a href="jekyll\update\2024\06\03\welcome-to-jekyll.html">Dev Journal</a></li>
+        <li><a href="/2024/06/08/Pendulum-Swing.html">2024-06-08 - Creating Pendulum Swing</a></li>
     </ul>
 </nav>
 
