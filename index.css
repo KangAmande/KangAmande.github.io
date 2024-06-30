@@ -1,0 +1,12 @@
+.card:hover {
+    background-color: #a0c3e5;
+}
+.card {
+    transition: background-color 0.5s ease;
+}
+body {
+    background: linear-gradient(to right, #a0c3e5, #ffffff, #a0c3e5);
+}
+h1:hover, h2:hover, h3:hover{
+    text-shadow: 2px 2px #0a7bec;
+}
